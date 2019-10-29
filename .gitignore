@@ -121,3 +121,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+cuda_10.1.243_426.00_win10.exe
+7ZipSfx.000
